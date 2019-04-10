@@ -1,0 +1,5 @@
+run:
+  host: "127.0.0.1"
+  port: 4801
+data:
+  num_person: 2
